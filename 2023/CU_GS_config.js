@@ -104,10 +104,10 @@ var config_data = `
       "gsCol": "autoDocked",
       "type":"radio",
       "choices": {
-        "d": "Docked (not Engaged)<br>",
-        "e": "Engaged<br>",
-        "a": "Attempted but failed<br>",
-        "x": "Not attempted"
+        "8": "Docked (not Engaged)<br>",
+        "12": "Engaged<br>",
+        "0": "Attempted but failed<br>",
+        "0": "Not attempted"
       },
       "defaultValue": "x"
     }
@@ -175,11 +175,11 @@ var config_data = `
       "gsCol": "endgameStatus",
       "type":"radio",
       "choices": {
-        "p": "Parked<br>",
-        "d": "Docked (Not Engaged)<br>",
-        "e": "Engaged<br>",
-        "a": "Attempted but failed<br>",
-        "x": "Not attempted"
+        "2": "Parked<br>",
+        "6": "Docked (Not Engaged)<br>",
+        "10": "Engaged<br>",
+        "0": "Attempted but failed<br>",
+        "0": "Not attempted"
       },
       "defaultValue": "x"
     },
@@ -195,10 +195,10 @@ var config_data = `
       "gsCol": "driverSkill",
       "type": "radio",
       "choices": {
-        "n": "Not Effective<br>",
-        "a": "Average<br>",
-        "v": "Very Effective<br>",
-        "x": "Not Observed"
+        "0": "Not Effective<br>",
+        ".5": "Average<br>",
+        "1": "Very Effective<br>",
+        "0": "Not Observed"
       },
       "defaultValue": "x"
     },
@@ -212,11 +212,11 @@ var config_data = `
       "gsCol": "defenseRating",
       "type": "radio",
       "choices": {
-        "b": "Below Average<br>",
-        "a": "Average<br>",
-        "g": "Good<br>",
-        "e": "Excellent<br>",
-        "x": "Did not play defense"
+        ".25": "Below Average<br>",
+        ".5": "Average<br>",
+        ".75": "Good<br>",
+        "1": "Excellent<br>",
+        "0": "Did not play defense"
       },
       "defaultValue": "x"
     },
