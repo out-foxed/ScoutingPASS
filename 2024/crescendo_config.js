@@ -123,7 +123,7 @@ var config_data = `
     { "name": "Harmonie's scored",
       "code": "hr",
       "type": "counter"
-    }
+    },
     { "name": "Note in Trap",
       "code": "nit",
       "type": "bool"
