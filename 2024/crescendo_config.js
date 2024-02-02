@@ -112,15 +112,18 @@ var config_data = `
       "code": "fs",
       "type":"radio",
       "choices": {
-        "p": "Parked<br>",
-        "o": "Onstage<br>",
-        "s": "Onstage (Spotlit)<br>",
-        "h": "Harmony<br>",
+        "1": "Parked<br>",
+        "3": "Onstage<br>",
+        "4": "Onstage (Spotlit)<br>",
         "a": "Attempted but failed<br>",
         "x": "Not attempted"
       },
       "defaultValue": "x"
     },
+    { "name": "Harmonie's scored",
+      "code": "hr",
+      "type": "counter"
+    }
     { "name": "Note in Trap",
       "code": "nit",
       "type": "bool"
@@ -131,9 +134,9 @@ var config_data = `
       "code": "ds",
       "type": "radio",
       "choices": {
-        "n": "Not Effective<br>",
-        "a": "Average<br>",
-        "v": "Very Effective<br>",
+        "0": "Not Effective<br>",
+        "0.5": "Average<br>",
+        "1": "Very Effective<br>",
         "x": "Not Observed"
       },
       "defaultValue": "x"
@@ -142,10 +145,10 @@ var config_data = `
       "code": "dr",
       "type": "radio",
       "choices": {
-        "b": "Below Average<br>",
-        "a": "Average<br>",
-        "g": "Good<br>",
-        "e": "Excellent<br>",
+        "0.25": "Below Average<br>",
+        "0.5": "Average<br>",
+        "0.75": "Good<br>",
+        "1": "Excellent<br>",
         "x": "Did not play defense"
       },
       "defaultValue": "x"
