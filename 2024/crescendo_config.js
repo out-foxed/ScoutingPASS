@@ -103,6 +103,11 @@ var config_data = `
       "defaultValue": "x"
     }
   ],
+  "endgame": [
+    { "name": "Stage Timer",
+      "code": "dt",
+      "type": "timer"
+    },
     { "name": "Final Status",
       "code": "fs",
       "type":"radio",
