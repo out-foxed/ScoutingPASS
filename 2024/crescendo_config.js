@@ -134,9 +134,9 @@ var config_data = `
       "code": "ds",
       "type": "radio",
       "choices": {
-        "0": "Not Effective<br>",
-        "0.5": "Average<br>",
         "1": "Very Effective<br>",
+        "0.5": "Average<br>",
+        "0": "Not Effective<br>",
         "x": "Not Observed"
       },
       "defaultValue": "x"
@@ -145,10 +145,10 @@ var config_data = `
       "code": "dr",
       "type": "radio",
       "choices": {
-        "0.25": "Below Average<br>",
-        "0.5": "Average<br>",
-        "0.75": "Good<br>",
         "1": "Excellent<br>",
+        "0.75": "Good<br>",
+        "0.5": "Average<br>",
+        "0.25": "Below Average<br>",
         "x": "Did not play defense"
       },
       "defaultValue": "x"
