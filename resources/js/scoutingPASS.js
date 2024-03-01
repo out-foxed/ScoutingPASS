@@ -879,7 +879,7 @@ function qr_regenerate() {
   if (!pitScouting) {  
     if (validateData() == false) {
       // Don't allow a swipe until all required data is filled in
-      return true
+      return false
     }
   }
 
