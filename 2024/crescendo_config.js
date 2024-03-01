@@ -1,6 +1,8 @@
+
+
 var config_data = `
 {
-  "dataFormat": "tsv",
+  "dataFormat": "kvs",
   "title": "Scouting PASS 2024",
   "page_title": "Crescendo",
   "checkboxAs": "10",
@@ -104,11 +106,10 @@ var config_data = `
     }
   ],
   "endgame": [
-    { "name": "Stage Timer",
-      "code": "dt",
-      "type": "timer"
-    },
-    { "name": "Final Status",
+    
+
+
+  { "name": "Final Status",
       "code": "fs",
       "type":"radio",
       "choices": {

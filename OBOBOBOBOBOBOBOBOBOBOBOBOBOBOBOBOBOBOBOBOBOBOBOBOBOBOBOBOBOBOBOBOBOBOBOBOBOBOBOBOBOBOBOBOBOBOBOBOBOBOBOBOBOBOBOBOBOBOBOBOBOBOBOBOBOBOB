@@ -1,0 +1,258 @@
+[33mcommit b87b1d7186dc5be68b2045d16f419952d3a7e9e4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Isaac Sheridan <138263266+NewDevCoding@users.noreply.github.com>
+Date:   Thu Feb 22 19:51:50 2024 -0500
+
+    Update crescendo_config.js
+
+[33mcommit 80cd2cf34e5c509163b3fe8204e4e61b7411e495[m
+Author: Isaac Sheridan <138263266+NewDevCoding@users.noreply.github.com>
+Date:   Thu Feb 1 21:50:03 2024 -0500
+
+    Update crescendo_config.js
+    
+    Fixed comma error
+
+[33mcommit c5b1316edad6490da9bb3baf86910910948d2ab2[m
+Author: Isaac Sheridan <138263266+NewDevCoding@users.noreply.github.com>
+Date:   Thu Feb 1 19:53:45 2024 -0500
+
+    Update crescendo_config.js
+    
+    added harmony counter
+
+[33mcommit bebd5f43abb670c13d3402ac57a9f2ab950dd51b[m
+Author: Isaac Sheridan <138263266+NewDevCoding@users.noreply.github.com>
+Date:   Thu Feb 1 19:31:32 2024 -0500
+
+    Update crescendo_config.js
+    
+    commit
+
+[33mcommit c37d9b17c5d0f835eda933cd8a126cf542c919da[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Wed Jan 24 20:01:25 2024 -0600
+
+    Fix next button bug
+
+[33mcommit ec8024d5e0b66eb1db845da3747a12665f35ff85[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Wed Jan 17 20:57:13 2024 -0600
+
+    Update README.md
+
+[33mcommit 5c04dad709199f10021a7f6fcc04f400a99021cb[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Tue Jan 9 15:32:21 2024 -0600
+
+    Bug fix on dataFormat
+
+[33mcommit eaed9442ee9b565ea104400d8bd70aca037bfafb[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 21:50:50 2024 -0600
+
+    Add 2024 updates
+
+[33mcommit c5237472f8a58e110b0e96af6de0caec3a2cebab[m
+Merge: a3b3068 b09acd6
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 21:43:33 2024 -0600
+
+    Merge pull request #100 from PWNAGERobotics/2024
+    
+    2024 Season Updates
+
+[33mcommit b09acd69b8f906b8e559904b32e1a03d15dc05a9[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 21:36:55 2024 -0600
+
+    Switch to tab separated values to make Excel input easier
+
+[33mcommit 4e3a25bf176c73980c6901561f4dfa69e7a3b36a[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 21:30:16 2024 -0600
+
+    Tighten restricted auto start positions
+
+[33mcommit f4f7268636b0ac2cfc8b7ce70f76cb16f2942ec8[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 21:27:14 2024 -0600
+
+    Fix typo
+
+[33mcommit a5f20d7689de06d2a344a8327d99b86cf68088b7[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 21:23:14 2024 -0600
+
+    Add auto start restrictions
+
+[33mcommit df19d2206d36cf5f0f852edff0feec52407abe01[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 21:12:07 2024 -0600
+
+    Fix bug where blank allowableResponses not handled correctly
+
+[33mcommit dac07ec504a7e61b39fa45f184c256954b290f51[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 20:59:22 2024 -0600
+
+    Fix auto start position
+
+[33mcommit 296635be369d7c4726b35776de47b3fd41e5e2ec[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 20:53:38 2024 -0600
+
+    Fix typos
+
+[33mcommit 59670746ba0928ea0396e73a0749ae515d61cfb6[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 20:48:29 2024 -0600
+
+    Add field_image.png file
+
+[33mcommit 8a9b587bbc36c31fe6ebd242a37731900366b8d7[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 20:43:36 2024 -0600
+
+    Switch to 2024 config
+
+[33mcommit 660fafb8cc715bf54760d8f0901a226db6db0e12[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 20:42:59 2024 -0600
+
+    Create crescendo_pit_config.js
+
+[33mcommit deb33891a2ea60f93d8d2467b3f4b446b0398ab4[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 20:40:50 2024 -0600
+
+    Use 2024 config
+
+[33mcommit 95966b4dfc7d0eece731b1359ee545a35fbc8b50[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sun Jan 7 20:39:49 2024 -0600
+
+    Create crescendo_config.js
+
+[33mcommit a3b3068894a6dde3186376a32e4bb0adb50fe80a[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Mon Dec 11 22:25:47 2023 -0600
+
+    Fix typo
+
+[33mcommit ad548ebe1d55ab412a02ae8a8cd5336e65cefd4d[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Mon Dec 11 22:24:05 2023 -0600
+
+    Switch ending form and body tags to be in the correct order
+
+[33mcommit ac7e79d48b3843ee6f8ed6c3f4d7325df3848af4[m
+Merge: a6514c3 9a625bb
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Thu Dec 7 22:39:09 2023 -0600
+
+    Merge pull request #97 from AADad578/limited-field-images
+    
+    Added restrictions to images
+
+[33mcommit 9a625bb74d986c482cdd738f82a00046b419028d[m
+Author: AADad578 <52874739+AADad578@users.noreply.github.com>
+Date:   Sun Dec 3 12:31:48 2023 -0500
+
+    Added restrictions to images
+    
+    Added attribute "allowableResponses" which you pass a list of grid boxes into. It will then only allow you to click inside those boxes. If you click on a different one, it will not show up or get recorded.
+    If no allowableResponses is provided, it will assume all are allowed
+    
+    Fixed Excel that had a rotated 180 field image, so the grids were wrong.
+
+[33mcommit a6514c30d52705af29ddfbb4b352b9c7ff1dfb31[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Wed Oct 25 21:50:21 2023 -0500
+
+    Add color and background-color to the input boxes
+
+[33mcommit 8d22ed3cdde72ee8d724aee559805f2e0a62203e[m
+Merge: 07d243a 581ebb5
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Wed Oct 25 21:14:20 2023 -0500
+
+    Merge pull request #75 from zaaj/Refactor_getData
+    
+    Refactor many features
+    Fix error messages for required fields
+    Add tab delimited output (for easy parsing into Excel/Google Sheets)
+    Clean up code in many places
+    Thank you @zaaj!
+
+[33mcommit 07d243afa1c636ea6c5790380daa20d510c50b0b[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Wed Oct 25 20:59:16 2023 -0500
+
+    Rework 2023/2024 update section
+
+[33mcommit d6561afc5d66d647480ff1f088c355a5c164508c[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Wed Oct 25 20:39:18 2023 -0500
+
+    Update README.md
+    
+    Add more feature requests
+
+[33mcommit 7904e989ac0cf7ff47d1a0b20a4df1fa4252c69e[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Wed Oct 25 20:13:13 2023 -0500
+
+    Update README.md
+    
+    Add more things to work on
+
+[33mcommit 581ebb5c623beccb51e2375650c2a47546a79c16[m
+Author: Adam Johnson <adam.a.johnson@gmail.com>
+Date:   Sat Jul 29 13:24:45 2023 -0400
+
+    Add tab separated values as optional data format
+
+[33mcommit a3a1f9a7e8b5bcad14097e80585bddde25ce6522[m
+Merge: 474f828 5d97d31
+Author: Adam Johnson <adam.a.johnson@gmail.com>
+Date:   Sat May 13 11:58:24 2023 -0400
+
+    Merge remote-tracking branch 'upstream/main' into Refactor_getData to keep pull request fresh
+
+[33mcommit 5d97d31021ae62ab75dfb8107eacf9ed8d454f36[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Mon Mar 27 22:31:45 2023 -0500
+
+    Update for Smokey Mountains regional
+
+[33mcommit 474f828d9e513413ebe8120dc61abffc18a56e4f[m
+Author: Adam Johnson <adam.a.johnson@gmail.com>
+Date:   Sat Mar 25 20:26:01 2023 -0400
+
+    fixed 2 duplicate IDs, rewrote a for loop
+
+[33mcommit dd89bcce8d87d5b282ed0370a462390684f3c26b[m
+Merge: f55cc19 b1145c7
+Author: Adam Johnson <adam.a.johnson@gmail.com>
+Date:   Fri Mar 24 18:29:59 2023 -0400
+
+    Merge remote-tracking branch 'upstream/main' into Refactor_getData
+    Keeping pull request up-to-date with upstream changes
+
+[33mcommit b1145c7f38bc5322b976b6a18556bbc2033e8d0f[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Fri Mar 24 08:41:13 2023 -0500
+
+    Update field image
+
+[33mcommit 12cc4a8bbd187c0d85709be8060780d3860361aa[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Fri Mar 24 08:36:23 2023 -0500
+
+    Update for North Star Regional
+
+[33mcommit 2c85bd8cbc5e2d5cfb2c25b01a55c29887acfe3d[m
+Author: fuddster <fuddster@users.noreply.github.com>
+Date:   Sat Mar 18 21:39:59 2023 -0500
+
+    Update Excel files with new configurati
