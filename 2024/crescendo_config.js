@@ -89,6 +89,10 @@ var config_data = `
       "code": "tss",
       "type": "counter"
     },
+    { "name": "Amplified Notes",
+      "code": "tan",
+      "type": "counter"
+    },
     { "name": "Times Amplified",
       "code": "tta",
       "type": "counter"
