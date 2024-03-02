@@ -85,12 +85,12 @@ var config_data = `
       "code": "tas",
       "type": "counter"
     },
-    { "name": "Speaker Scores",
-      "code": "tss",
+    { "name": "Non-amped speaker",
+      "code": "tna",
       "type": "counter"
     },
-    { "name": "Amplified Notes",
-      "code": "tan",
+    { "name": "Amped speaker",
+      "code": "ta",
       "type": "counter"
     },
     { "name": "Times Amplified",
